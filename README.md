@@ -30,6 +30,11 @@ Steps to use the application:
 3)Customize Your Profile: Add a profile picture, write a bio, and start following other users.
 
 4)Explore and Engage:Start posting.
+
+Below is a screenshot of the Socialize app in action:
+
+![Screenshot 2024-08-16 121018](https://github.com/user-attachments/assets/3b49d3f5-7b7d-4639-a30c-d2be045278a7)
+
 ##
 We hope you enjoy using Socialize as much as we enjoyed building it. If you have any questions, feedback, or suggestions, don't hesitate to reach out. Your input helps us make Socialize even better.
 
